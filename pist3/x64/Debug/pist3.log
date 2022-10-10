@@ -1,0 +1,4 @@
+﻿  pist3.cpp
+C:\Users\yoelu\source\repos\pist3\pist3\pist3.cpp(16,46): error C2664: 'HMODULE LoadLibraryW(LPCWSTR)': el argumento 1 no puede convertirse de 'const char [10]' a 'LPCWSTR'
+C:\Users\yoelu\source\repos\pist3\pist3\pist3.cpp(16,35): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\libloaderapi.h(665,1): message : vea la declaración de 'LoadLibraryW'
